@@ -22,3 +22,5 @@ switch (number) {
   default:
     console.log("Zero")
 }
+
+console.log("Hello")
